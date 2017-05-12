@@ -66,7 +66,8 @@ For setup using http://www.braveclojure.com/basic-emacs/
 | C-c C-k     | Compile current buffer.                                                            |
 | C-c C-d C-d | Display documentation for symbol under point.                                      |
 | M-. and M-, | Navigate to source code for symbol under point and return to your original buffer. |
-| C-c C-d C-a | Apropros search; find arbitrary text across function names and documentation.      |
+| C-c C-d C-a | Apropros search; find arbitrary text across function names and documentation. |
+| C-c M-,     | Run tests|
 
 ## cider buffer key bindings
 
